@@ -6,10 +6,13 @@ All codes are written in python and libraries that have been used are numpy and 
 
 None of the code files take inputs from the user.
 To run the code in the terminal please type:
-For reproducibility of results each of the code files has a random seed. Changing the random seed could significantly effect the performance of the algorithm.
-Note: grid3_qtable.py takes a significant amount of time to train.
 
 python file_name.py
+
+
+For reproducibility of results each of the code files has a random seed. Changing the random seed could significantly effect the performance of the algorithm.
+Note 1: grid3_qtable.py takes a significant amount of time to train.
+Note 2: grid3_qtable.py required the file dict.csv to be in the Codes directory, please transfer the file only then run the code otherwise it will throw an error saying the file is not there
 
 Contains the source files for each of the question.
 grid2_qtable.py --> code for 2x2 grid using q table
