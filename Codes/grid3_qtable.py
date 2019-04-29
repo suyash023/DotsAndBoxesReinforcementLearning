@@ -25,7 +25,7 @@ def init_board():
 	global flag
 	board_state = '0'*24
 	qtable={}
-	#qtable = read_dict()
+	qtable = read_dict()
 	flag =0
 	return board_state,qtable
 
