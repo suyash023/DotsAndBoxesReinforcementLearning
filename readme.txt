@@ -24,6 +24,8 @@ The code grid2_qtable.py generates a csv file called 'dict.csv' which is used by
 
 To visualize the game please uncomment the lines draw_board_state() in the code to see one of the games.
 
+The plots for performance are generated finally after all the iterations have been run.
+
 
 2) Images folder
 
